@@ -11,7 +11,7 @@ The _/code_ dir include the next files (**Problems 2-6**):
 
 All the scripts run an output as required in the assignment, except _tweet_sentiment.py_, which prints the sentiment of each tweet in the file, one sentiment per line, in the following form:
 
-__id: <term id>, score: <sentiment:float>__
+__id: (term id), score: (sentiment:float)__
 
 Personally speaking, the most interesting problem was to determine the happiest state (#5). Generally, "place" and "user" fields are used to determine the location. But when providing exploratory analysis of tweet objects, I have noticed a lot of "special cases": names of US cities with missing state, but obvious to determine (Philadelphia, Indianapolis), typos like "Houston, tx ", not mentioning lots of tweets from US, written in Spanish. So it appears to be a tricky problem to write a script that covers all exceptions (as well as to create a comprehensive set of test cases, which is also an interesting issue).
 
