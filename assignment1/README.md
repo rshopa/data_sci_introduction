@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis in Python
 
-This assignment originally required Python 2.7 environment (exactly 2.7.3 version), but in my case all the issues were made using Python 3.3. I did not include here rewritten _twitterstream.py_ code in order to get twitter data from the stream, as well as all the initial documents, except _AFINN-111.txt_ and assignment instructions (instructions.pdf). I also put here the lighter _test_output_tweets.txt_ output file (**Problem 1**) instead of 80+ Mb file containing data from the full 10-minute long live stream session.
+This assignment originally required Python 2.7 environment (exactly 2.7.3 version), but in my case all issues were made using Python 3.3. I did not include here rewritten _twitterstream.py_ code in order to get twitter data from the stream, as well as all the initial documents, except _AFINN-111.txt_ and assignment instructions (instructions.pdf). I also put here the lighter _test_output_tweets.txt_ output file (**Problem 1**) instead of 80+ Mb file containing data from the full 10-minute long live stream session.
 
 The _/code_ dir include the next files (**Problems 2-6**):
 * _tweet_sentiment.py_
