@@ -55,7 +55,7 @@
 		GROUP BY f2.docid
 	);
 
--- However, correct computing of the similarity matrix do involve two BIG ones,
+-- However, to compute the similarity matrix correctly, two BIG ones are mandatory,
 -- therefore for the purpose of economy a view could be created:
 
 -- Answer 2:
