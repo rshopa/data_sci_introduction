@@ -7,4 +7,4 @@ This set is divided into 3 problems:
 * Matrix mulitplication
 * Term-document matrix and similarity computing
 
-The _/src_ is a folder with solutions (sql scripts), _/out_ - with output .txt files with answers. Two initial database files are in the root: _matrix.db_ and _reuters.db_.
+The _/src_ is a folder with solutions (sql scripts), _/out_ - output _.txt_ files with answers. Two initial database files are in the root: _matrix.db_ and _reuters.db_.
