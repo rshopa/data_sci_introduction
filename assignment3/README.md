@@ -13,4 +13,4 @@ The problems include:
 * Unique sequences of nucleotides
 * Matrix multiplication
 
-I've also made quiz __Experimenting with MapReduce using JSMapreduce__. However, as the [site](http://jsmapreduce.com/) itself has expired, I was only able to solve "Python Poker Analysis" problem, using [Web archive](https://web.archive.org "Web archive"). The solution is presented in Javascript (Sample3), not Python (Sample 4), which was inactive.
+I've also made quiz __Experimenting with MapReduce using JSMapreduce__. However, as the [site](http://jsmapreduce.com/) itself has expired, I was only able to solve "Poker Analysis" problem, using [Web archive](https://web.archive.org "Web archive"). The solution is presented in Javascript (Sample3), not Python (Sample 4), which was inactive.
