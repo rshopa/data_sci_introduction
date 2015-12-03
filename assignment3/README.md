@@ -2,7 +2,7 @@
 
 This assignment is devoted to designing and implementing MapReduce algorithms for a variety of common data processing tasks.
 
-Again, my solutions were made using Python 3.3 environment with little difference from 2.7 version.
+Again, my solutions were made using Python 3.3 environment with little difference from 2.7 version. Two initial files from the course, *MapReduce.py* (as a class) and *wordcount.py*, are placed in root directory.
 
 The problems include:
 
