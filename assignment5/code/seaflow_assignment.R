@@ -208,7 +208,7 @@ table(pred = predSVM, true = dataTest$pop)
 # one of them takes on only a few discrete values, suggesting a problem. 
 # Which variable exhibits this problem?
 
-# relationships between predictors - a usefyl tool!
+# relationships between predictors - a useful tool!
 plot(dataSW[,6:11], col = "blue", pch = 20)
 
 # it's clearly visible that fsc_big is corrupted
